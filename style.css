@@ -74,3 +74,50 @@ padding-top     : 12px;
 
 
 }
+
+/* Main section for Animals Page */
+#main{
+    margin-top: 119px;
+    background-image: url('images/map-blur.png');
+    background-repeat: repeat-y;
+}
+
+#content{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
+a.info-box {
+    display: block;
+    text-decoration: none;
+    background-color: rgba(225, 225, 55, 0.8);
+    width: 90%;
+    height: 90px;
+    margin: 12px auto;
+    padding: 1px;
+  
+}
+
+.info-box img {
+    height: 70px;
+    margin: 10px;
+    float: left;
+}
+
+.info-box h3 {
+    padding: 0;
+    margin-bottom: 0;
+    color: #572800;
+}
+
+.info-box p {
+    margin: 0;
+    padding: 0;
+    color: #131313;
+}
+
+.info-box img.right {
+    float: right;
+    margin-top: 25px;
+    height: 40px;
+}
